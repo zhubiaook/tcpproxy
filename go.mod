@@ -1,4 +1,4 @@
-module zhubiaook/tcpproxy
+module github.com/zhubiaook/tcpproxy
 
 go 1.19
 
